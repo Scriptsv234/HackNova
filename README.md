@@ -15,6 +15,7 @@ A lite version of the Lunaar Site featuring a modern design with over 800+ games
 - **Modern Design**: Sleek, responsive UI with dark theme and smooth animations.
 - **800+ Games**: Extensive collection of browser-based games.
 - **Fast Loading**: Optimized for quick access and minimal load times.
+- **Fully Static**: You can deploy almost anywhere!
 
 ## Deployment
 
